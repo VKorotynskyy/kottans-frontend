@@ -3,7 +3,7 @@ Repository for learning with _kottans_
 ___
 ### Tasks
 - [x] 0. [Git basics](https://github.com/VKorotynskyy/kottans-frontend/tree/master/task0_git_basics)
-- [ ] 1. Linux CLI and networking
+- [x] 1. [Linux CLI and networking](https://github.com/VKorotynskyy/kottans-frontend/tree/master/task1_linux_cli_%20and_networking)
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 ___
 - [ ] 3. Intro to HTML & CSS
@@ -21,3 +21,4 @@ ___
 ___
 ### Impressions
 - 0. [Git basics](https://github.com/VKorotynskyy/kottans-frontend/blob/master/task0_git_basics/impressions.md)
+- 1. [Linux CLI and HTTP](https://github.com/VKorotynskyy/kottans-                   frontend/blob/master/task1_linux_cli_%20and_networking/task1_impressions.md)
