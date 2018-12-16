@@ -4,7 +4,7 @@ ___
 ### Tasks
 - [x] 0. [Git basics](https://github.com/VKorotynskyy/kottans-frontend/tree/master/task0_git_basics)
 - [x] 1. [Linux CLI and networking](https://github.com/VKorotynskyy/kottans-frontend/tree/master/task1_linux_cli_%20and_networking)
-- [ ] 2. VCS (hello gitty), GitHub and Collaboration
+- [x] 2. VCS (hello gitty), GitHub and Collaboration
 ___
 - [ ] 3. Intro to HTML & CSS
 - [ ] 4. Responsive Web Design
